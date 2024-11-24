@@ -1,0 +1,7 @@
+pyTelegramBotAPI
+requests
+pymongo
+certifi
+aiohttp
+python-telegram-bot
+flask
